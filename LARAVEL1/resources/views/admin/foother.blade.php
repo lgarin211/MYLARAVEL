@@ -12,10 +12,10 @@
   </a>
       <!-- End of Footer -->
   <!-- Bootstrap core JavaScript-->
-  <script src="{{asset('/temp/vendor/jquery/jquery.min.js')}}"></script>
-  <script src="{{asset('/temp/vendor/bootstrap/js/bootstrap.bundle.min.js')}}"></script>
+  <script src="{{asset('asset/temp/ads2/admin')}}/vendor/jquery/jquery.min.js"></script>
+  <script src="{{asset('asset/temp/ads2/admin')}}/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
   <!-- Core plugin JavaScript-->
-  <script src="{{asset('/temp/vendor/jquery-easing/jquery.easing.min.js')}}"></script>
+  <script src="{{asset('asset/temp/ads2/admin')}}/vendor/jquery-easing/jquery.easing.min.js"></script>
   <!-- Custom scripts for all pages-->
-  <script src="{{asset('/temp/js/sb-admin-2.min.js')}}"></script>
+  <script src="{{asset('asset/temp/ads2/admin')}}/js/sb-admin-2.min.js"></script>
   </html>
