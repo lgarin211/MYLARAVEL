@@ -77,4 +77,9 @@
         </main>
     </div>
 </body>
+
+<form id="" action="{{ route('logout') }}" method="POST">
+    @csrf
+    <button type="submit">kirim</button>
+</form>
 </html>
